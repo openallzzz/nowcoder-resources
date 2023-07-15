@@ -1,0 +1,7 @@
+mysql80-community-release-el7-3.noarch.rpm filter=lfs diff=lfs merge=lfs -text
+apache-maven-3.6.1-bin.tar.gz filter=lfs diff=lfs merge=lfs -text
+apache-tomcat-9.0.22.tar.gz filter=lfs diff=lfs merge=lfs -text
+community-init-sql-1.5.zip filter=lfs diff=lfs merge=lfs -text
+elasticsearch-6.4.3.tar.gz filter=lfs diff=lfs merge=lfs -text
+elasticsearch-analysis-ik-6.4.3.zip filter=lfs diff=lfs merge=lfs -text
+kafka_2.12-2.3.0.gz filter=lfs diff=lfs merge=lfs -text
